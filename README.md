@@ -27,8 +27,7 @@ For accurate lane detection, the region of interest (ROI) pixels should be ident
 
 ## Some application contents
 
-![Resim başlığı](https://drive.google.com/file/d/1tJakP3VACaRmcS333AYXenEOMv_cGcO-/view)
-
+<img src="https://github.com/mr-ozdemir/Lane-detection-with-Opencv-in-Ros/blob/main/ilgi%20alanı%20belirlenmesi.PNG" width="250" height="300" > <img src="https://github.com/mr-ozdemir/Lane-detection-with-Opencv-in-Ros/blob/main/bilatlıgri.PNG" width="250" height="300" ><img src="https://github.com/mr-ozdemir/Lane-detection-with-Opencv-in-Ros/blob/main/Morfoljikislemvebianry.PNG" width="250" height="300" > <img src="https://github.com/mr-ozdemir/Lane-detection-with-Opencv-in-Ros/blob/main/pid.PNG" width="250" height="300" >
 
 ## Note
 
