@@ -37,4 +37,4 @@ This project was initially developed for the Teknofest Robotaxi Autonomous Vehic
 
 This project is licensed under the [MIT License](LICENSE).
 
-For questions or suggestions, please contact (mrozdemir34@gmail.com)
+For questions or suggestions, please contact (mr.ozdemir34@gmail.com)
